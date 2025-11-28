@@ -12,7 +12,7 @@ My goal is to become a strong Cloud Engineer on the path toward Cloud Architectu
 ---
 
 ## Current Focus
-- Studying for 
+- Studying for AWS SAA and Terraform Associate (003)
 - AWS architecture and core services  
 - Infrastructure as Code (Terraform, CloudFormation)  
 - Serverless development (Lambda, API Gateway, DynamoDB)  
